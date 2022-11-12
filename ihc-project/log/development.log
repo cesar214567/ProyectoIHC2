@@ -1,0 +1,392 @@
+Started GET "/" for ::1 at 2022-11-12 15:53:29 -0500
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/cesar/.rbenv/versions/3.1.2/lib/ruby/gems/3.1.0/gems/railties-7.0.4/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/cesar/.rbenv/versions/3.1.2/lib/ruby/gems/3.1.0/gems/railties-7.0.4/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.8ms | Allocations: 626)
+Completed 200 OK in 8ms (Views: 4.8ms | Allocations: 3425)
+
+
+Started GET "/data" for ::1 at 2022-11-12 15:53:33 -0500
+Processing by DataController#index as HTML
+Completed 500 Internal Server Error in 772ms (Allocations: 951657)
+
+
+  
+NoMethodError (undefined method `sample' for 1..10:Range
+
+        if (1..10).sample < 7 
+                  ^^^^^^^):
+  
+app/controllers/data_controller.rb:21:in `index'
+Started GET "/favicon.ico" for ::1 at 2022-11-12 15:53:34 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/data" for ::1 at 2022-11-12 15:53:48 -0500
+Processing by DataController#index as HTML
+Completed 200 OK in 1ms (Views: 0.2ms | Allocations: 2122)
+
+
+Started GET "/favicon.ico" for ::1 at 2022-11-12 15:53:49 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/data" for ::1 at 2022-11-12 15:56:01 -0500
+Processing by DataController#index as HTML
+Completed 200 OK in 4ms (Views: 0.8ms | Allocations: 2252)
+
+
+Started GET "/favicon.ico" for ::1 at 2022-11-12 15:56:01 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/data" for ::1 at 2022-11-12 15:56:29 -0500
+Processing by DataController#index as HTML
+Completed 200 OK in 4ms (Views: 0.4ms | Allocations: 1732)
+
+
+Started GET "/favicon.ico" for ::1 at 2022-11-12 15:56:29 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/data" for ::1 at 2022-11-12 15:57:18 -0500
+Processing by DataController#index as HTML
+Completed 200 OK in 1ms (Views: 0.4ms | Allocations: 1187)
+
+
+Started GET "/favicon.ico" for ::1 at 2022-11-12 15:57:18 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/data" for ::1 at 2022-11-12 15:57:26 -0500
+Processing by DataController#index as HTML
+Completed 200 OK in 1ms (Views: 0.2ms | Allocations: 1779)
+
+
+Started GET "/favicon.ico" for ::1 at 2022-11-12 15:57:26 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/data" for ::1 at 2022-11-12 15:57:27 -0500
+Processing by DataController#index as HTML
+Completed 200 OK in 1ms (Views: 0.1ms | Allocations: 2146)
+
+
+Started GET "/favicon.ico" for ::1 at 2022-11-12 15:57:27 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/data" for ::1 at 2022-11-12 15:57:28 -0500
+Processing by DataController#index as HTML
+Completed 200 OK in 1ms (Views: 0.1ms | Allocations: 2048)
+
+
+Started GET "/favicon.ico" for ::1 at 2022-11-12 15:57:28 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/data" for ::1 at 2022-11-12 15:57:28 -0500
+Processing by DataController#index as HTML
+Completed 200 OK in 1ms (Views: 0.1ms | Allocations: 1614)
+
+
+Started GET "/favicon.ico" for ::1 at 2022-11-12 15:57:28 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/data" for ::1 at 2022-11-12 15:57:28 -0500
+Processing by DataController#index as HTML
+Completed 200 OK in 3ms (Views: 0.4ms | Allocations: 2317)
+
+
+Started GET "/favicon.ico" for ::1 at 2022-11-12 15:57:28 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/data" for ::1 at 2022-11-12 15:57:29 -0500
+Processing by DataController#index as HTML
+Completed 200 OK in 2ms (Views: 0.3ms | Allocations: 1866)
+
+
+Started GET "/favicon.ico" for ::1 at 2022-11-12 15:57:29 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/data" for ::1 at 2022-11-12 15:57:29 -0500
+Processing by DataController#index as HTML
+Completed 200 OK in 3ms (Views: 0.5ms | Allocations: 2067)
+
+
+Started GET "/favicon.ico" for ::1 at 2022-11-12 15:57:29 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/data" for ::1 at 2022-11-12 15:57:29 -0500
+Processing by DataController#index as HTML
+Completed 200 OK in 4ms (Views: 0.6ms | Allocations: 1425)
+
+
+Started GET "/favicon.ico" for ::1 at 2022-11-12 15:57:29 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/data" for ::1 at 2022-11-12 15:57:29 -0500
+Processing by DataController#index as HTML
+Completed 200 OK in 3ms (Views: 0.4ms | Allocations: 1762)
+
+
+Started GET "/favicon.ico" for ::1 at 2022-11-12 15:57:29 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/data" for ::1 at 2022-11-12 15:57:29 -0500
+Processing by DataController#index as HTML
+Completed 200 OK in 2ms (Views: 0.4ms | Allocations: 1124)
+
+
+Started GET "/favicon.ico" for ::1 at 2022-11-12 15:57:29 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/data" for ::1 at 2022-11-12 15:57:29 -0500
+Processing by DataController#index as HTML
+Completed 200 OK in 3ms (Views: 0.3ms | Allocations: 1876)
+
+
+Started GET "/favicon.ico" for ::1 at 2022-11-12 15:57:29 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/data" for ::1 at 2022-11-12 15:57:29 -0500
+Processing by DataController#index as HTML
+Completed 200 OK in 2ms (Views: 0.4ms | Allocations: 956)
+
+
+Started GET "/favicon.ico" for ::1 at 2022-11-12 15:57:29 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/data" for ::1 at 2022-11-12 15:57:30 -0500
+Processing by DataController#index as HTML
+Completed 200 OK in 3ms (Views: 0.4ms | Allocations: 2161)
+
+
+Started GET "/favicon.ico" for ::1 at 2022-11-12 15:57:30 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/data" for ::1 at 2022-11-12 15:57:30 -0500
+Processing by DataController#index as HTML
+Completed 200 OK in 2ms (Views: 0.4ms | Allocations: 1496)
+
+
+Started GET "/favicon.ico" for ::1 at 2022-11-12 15:57:30 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/data" for ::1 at 2022-11-12 15:57:30 -0500
+Processing by DataController#index as HTML
+Completed 200 OK in 6ms (Views: 0.6ms | Allocations: 2351)
+
+
+Started GET "/favicon.ico" for ::1 at 2022-11-12 15:57:30 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/data" for ::1 at 2022-11-12 15:57:30 -0500
+Processing by DataController#index as HTML
+Completed 200 OK in 1ms (Views: 0.1ms | Allocations: 1046)
+
+
+Started GET "/favicon.ico" for ::1 at 2022-11-12 15:57:30 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/data" for ::1 at 2022-11-12 15:57:30 -0500
+Processing by DataController#index as HTML
+Completed 200 OK in 3ms (Views: 0.7ms | Allocations: 2147)
+
+
+Started GET "/favicon.ico" for ::1 at 2022-11-12 15:57:30 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/data" for ::1 at 2022-11-12 15:57:30 -0500
+Processing by DataController#index as HTML
+Completed 200 OK in 2ms (Views: 0.4ms | Allocations: 1522)
+
+
+Started GET "/favicon.ico" for ::1 at 2022-11-12 15:57:30 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/data" for ::1 at 2022-11-12 15:57:31 -0500
+Processing by DataController#index as HTML
+Completed 200 OK in 1ms (Views: 0.1ms | Allocations: 1501)
+
+
+Started GET "/favicon.ico" for ::1 at 2022-11-12 15:57:31 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/data" for ::1 at 2022-11-12 15:57:31 -0500
+Processing by DataController#index as HTML
+Completed 200 OK in 4ms (Views: 0.3ms | Allocations: 2419)
+
+
+Started GET "/favicon.ico" for ::1 at 2022-11-12 15:57:31 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/data" for ::1 at 2022-11-12 15:57:31 -0500
+Processing by DataController#index as HTML
+Completed 200 OK in 2ms (Views: 0.4ms | Allocations: 1151)
+
+
+Started GET "/favicon.ico" for ::1 at 2022-11-12 15:57:31 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/data" for ::1 at 2022-11-12 15:57:31 -0500
+Processing by DataController#index as HTML
+Completed 200 OK in 3ms (Views: 0.4ms | Allocations: 1868)
+
+
+Started GET "/favicon.ico" for ::1 at 2022-11-12 15:57:31 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/data" for ::1 at 2022-11-12 15:57:31 -0500
+Processing by DataController#index as HTML
+Completed 200 OK in 2ms (Views: 0.4ms | Allocations: 1493)
+
+
+Started GET "/favicon.ico" for ::1 at 2022-11-12 15:57:32 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/data" for ::1 at 2022-11-12 15:57:32 -0500
+Processing by DataController#index as HTML
+Completed 200 OK in 1ms (Views: 0.1ms | Allocations: 1869)
+
+
+Started GET "/favicon.ico" for ::1 at 2022-11-12 15:57:32 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/data" for ::1 at 2022-11-12 15:57:46 -0500
+Processing by DataController#index as HTML
+Completed 200 OK in 2ms (Views: 0.3ms | Allocations: 2621)
+
+
+Started GET "/favicon.ico" for ::1 at 2022-11-12 15:57:46 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/data" for ::1 at 2022-11-12 15:58:17 -0500
+Processing by DataController#index as HTML
+Completed 200 OK in 1ms (Views: 0.2ms | Allocations: 1455)
+
+
+Started GET "/favicon.ico" for ::1 at 2022-11-12 15:58:17 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/data" for ::1 at 2022-11-12 15:58:22 -0500
+Processing by DataController#index as HTML
+Completed 200 OK in 2ms (Views: 0.3ms | Allocations: 1779)
+
+
+Started GET "/favicon.ico" for ::1 at 2022-11-12 15:58:22 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/data" for ::1 at 2022-11-12 15:58:24 -0500
+Processing by DataController#index as HTML
+Completed 200 OK in 1ms (Views: 0.2ms | Allocations: 1058)
+
+
+Started GET "/favicon.ico" for ::1 at 2022-11-12 15:58:24 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/data" for ::1 at 2022-11-12 15:58:27 -0500
+Processing by DataController#index as HTML
+Completed 200 OK in 1ms (Views: 0.1ms | Allocations: 1132)
+
+
+Started GET "/favicon.ico" for ::1 at 2022-11-12 15:58:27 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/data" for ::1 at 2022-11-12 15:58:28 -0500
+Processing by DataController#index as HTML
+Completed 200 OK in 5ms (Views: 0.7ms | Allocations: 1649)
+
+
+Started GET "/favicon.ico" for ::1 at 2022-11-12 15:58:29 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/data" for ::1 at 2022-11-12 15:58:39 -0500
+Processing by DataController#index as HTML
+Completed 200 OK in 2ms (Views: 0.3ms | Allocations: 1051)
+
+
+Started GET "/favicon.ico" for ::1 at 2022-11-12 15:58:39 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/data" for ::1 at 2022-11-12 15:58:42 -0500
+Processing by DataController#index as HTML
+Completed 200 OK in 1ms (Views: 0.1ms | Allocations: 1056)
+
+
+Started GET "/favicon.ico" for ::1 at 2022-11-12 15:58:42 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/data" for ::1 at 2022-11-12 15:58:44 -0500
+Processing by DataController#index as HTML
+Completed 200 OK in 1ms (Views: 0.2ms | Allocations: 1965)
+
+
+Started GET "/favicon.ico" for ::1 at 2022-11-12 15:58:44 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/data" for ::1 at 2022-11-12 15:59:01 -0500
+Processing by DataController#index as HTML
+Completed 200 OK in 1ms (Views: 0.2ms | Allocations: 1188)
+
+
+Started GET "/favicon.ico" for ::1 at 2022-11-12 15:59:01 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/data" for ::1 at 2022-11-12 15:59:02 -0500
+Processing by DataController#index as HTML
+Completed 200 OK in 3ms (Views: 0.8ms | Allocations: 1562)
+
+
+Started GET "/favicon.ico" for ::1 at 2022-11-12 15:59:02 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/data" for ::1 at 2022-11-12 15:59:18 -0500
+Processing by DataController#index as HTML
+Completed 200 OK in 1ms (Views: 0.2ms | Allocations: 1108)
+
+
+Started GET "/favicon.ico" for ::1 at 2022-11-12 15:59:19 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/data" for ::1 at 2022-11-12 15:59:23 -0500
+Processing by DataController#index as HTML
+Completed 200 OK in 1ms (Views: 0.2ms | Allocations: 2357)
+
+
+Started GET "/favicon.ico" for ::1 at 2022-11-12 15:59:23 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
