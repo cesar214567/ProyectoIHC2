@@ -3,6 +3,7 @@ class Cv
         last_job_position = JobPositionRequirement.last
         value = 100
         value *= last_job_position[:required_title] ? 1.3 : 1.0
+        value *= 1+ last_job_position[:required_experience]/2.0
         data = {}
         data[:fullname] = Faker::Name.name
         data[:age] = (19..50).to_a.sample
