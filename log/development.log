@@ -2044,3 +2044,1046 @@ Started GET "/favicon.ico" for 127.0.0.1 at 2022-12-02 12:33:37 -0500
   
 ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
   
+Started GET "/job" for 127.0.0.1 at 2022-12-02 13:17:18 -0500
+Processing by JobController#index as HTML
+Completed 200 OK in 157ms (Views: 0.2ms | Allocations: 277842)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at 2022-12-02 13:17:19 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/cv" for 127.0.0.1 at 2022-12-02 13:17:21 -0500
+Processing by CvController#index as HTML
+Completed 500 Internal Server Error in 1ms (Allocations: 353)
+
+
+  
+SyntaxError (/home/cesar/Desktop/git/ProyectoIHC2/app/models/cv.rb:9: syntax error, unexpected '(', expecting `end'
+        value *= 0.8(50 - data[:age])/30
+                    ^
+/home/cesar/Desktop/git/ProyectoIHC2/app/models/cv.rb:9: syntax error, unexpected ')', expecting `end'
+...  value *= 0.8(50 - data[:age])/30
+...                              ^
+):
+  
+app/models/cv.rb:9: syntax error, unexpected '(', expecting `end'
+app/models/cv.rb:9: syntax error, unexpected ')', expecting `end'
+app/models/cv.rb:9: syntax error, unexpected '(', expecting `end'
+app/models/cv.rb:9: syntax error, unexpected ')', expecting `end'
+app/controllers/cv_controller.rb:3:in `index'
+Started GET "/favicon.ico" for 127.0.0.1 at 2022-12-02 13:17:21 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/job" for 127.0.0.1 at 2022-12-02 13:17:54 -0500
+Processing by JobController#index as HTML
+Completed 200 OK in 1ms (Views: 0.1ms | Allocations: 745)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at 2022-12-02 13:17:55 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/cv" for 127.0.0.1 at 2022-12-02 13:17:55 -0500
+Processing by CvController#index as HTML
+Completed 200 OK in 2ms (Views: 0.2ms | Allocations: 1757)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at 2022-12-02 13:17:55 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/cv" for 127.0.0.1 at 2022-12-02 13:18:01 -0500
+Processing by CvController#index as HTML
+Completed 200 OK in 2ms (Views: 0.3ms | Allocations: 1947)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at 2022-12-02 13:18:01 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/cv" for 127.0.0.1 at 2022-12-02 13:18:03 -0500
+Processing by CvController#index as HTML
+Completed 200 OK in 1ms (Views: 0.2ms | Allocations: 1045)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at 2022-12-02 13:18:03 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/cv" for 127.0.0.1 at 2022-12-02 13:18:04 -0500
+Processing by CvController#index as HTML
+Completed 200 OK in 1ms (Views: 0.4ms | Allocations: 1789)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at 2022-12-02 13:18:04 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/cv" for 127.0.0.1 at 2022-12-02 13:18:04 -0500
+Processing by CvController#index as HTML
+Completed 200 OK in 1ms (Views: 0.3ms | Allocations: 2170)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at 2022-12-02 13:18:04 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/cv" for 127.0.0.1 at 2022-12-02 13:18:05 -0500
+Processing by CvController#index as HTML
+Completed 200 OK in 1ms (Views: 0.2ms | Allocations: 711)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at 2022-12-02 13:18:05 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/cv" for 127.0.0.1 at 2022-12-02 13:18:06 -0500
+Processing by CvController#index as HTML
+Completed 200 OK in 1ms (Views: 0.1ms | Allocations: 979)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at 2022-12-02 13:18:06 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/cv" for 127.0.0.1 at 2022-12-02 13:18:07 -0500
+Processing by CvController#index as HTML
+Completed 200 OK in 1ms (Views: 0.2ms | Allocations: 1386)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at 2022-12-02 13:18:07 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/cv" for 127.0.0.1 at 2022-12-02 13:18:07 -0500
+Processing by CvController#index as HTML
+Completed 200 OK in 1ms (Views: 0.2ms | Allocations: 1081)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at 2022-12-02 13:18:07 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/cv" for 127.0.0.1 at 2022-12-02 13:18:08 -0500
+Processing by CvController#index as HTML
+Completed 200 OK in 1ms (Views: 0.2ms | Allocations: 1349)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at 2022-12-02 13:18:08 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/cv" for 127.0.0.1 at 2022-12-02 13:18:08 -0500
+Processing by CvController#index as HTML
+Completed 200 OK in 2ms (Views: 0.4ms | Allocations: 1121)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at 2022-12-02 13:18:08 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/cv" for 127.0.0.1 at 2022-12-02 13:18:08 -0500
+Processing by CvController#index as HTML
+Completed 200 OK in 1ms (Views: 0.2ms | Allocations: 1805)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at 2022-12-02 13:18:08 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/cv" for 127.0.0.1 at 2022-12-02 13:18:24 -0500
+Processing by CvController#index as HTML
+Completed 500 Internal Server Error in 1ms (Allocations: 419)
+
+
+  
+TypeError (no implicit conversion of Symbol into Integer):
+  
+app/models/cv.rb:5:in `[]'
+app/models/cv.rb:5:in `generate_cv'
+app/controllers/cv_controller.rb:3:in `index'
+Started GET "/favicon.ico" for 127.0.0.1 at 2022-12-02 13:18:24 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/job" for 127.0.0.1 at 2022-12-02 13:18:29 -0500
+Processing by JobController#index as HTML
+Completed 200 OK in 1ms (Views: 0.2ms | Allocations: 659)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at 2022-12-02 13:18:29 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/cv" for 127.0.0.1 at 2022-12-02 13:18:32 -0500
+Processing by CvController#index as HTML
+Completed 200 OK in 2ms (Views: 0.4ms | Allocations: 1202)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at 2022-12-02 13:18:32 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/cv" for 127.0.0.1 at 2022-12-02 13:18:41 -0500
+Processing by CvController#index as HTML
+Completed 200 OK in 6ms (Views: 0.9ms | Allocations: 1652)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at 2022-12-02 13:18:41 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/cv" for 127.0.0.1 at 2022-12-02 13:18:43 -0500
+Processing by CvController#index as HTML
+Completed 200 OK in 1ms (Views: 0.2ms | Allocations: 731)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at 2022-12-02 13:18:43 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/cv" for 127.0.0.1 at 2022-12-02 13:18:44 -0500
+Processing by CvController#index as HTML
+Completed 200 OK in 1ms (Views: 0.3ms | Allocations: 1144)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at 2022-12-02 13:18:44 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/cv" for 127.0.0.1 at 2022-12-02 13:18:53 -0500
+Processing by CvController#index as HTML
+Completed 200 OK in 4ms (Views: 0.5ms | Allocations: 2047)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at 2022-12-02 13:18:53 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/cv" for 127.0.0.1 at 2022-12-02 13:18:54 -0500
+Processing by CvController#index as HTML
+Completed 200 OK in 1ms (Views: 0.2ms | Allocations: 701)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at 2022-12-02 13:18:54 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/cv" for 127.0.0.1 at 2022-12-02 13:18:55 -0500
+Processing by CvController#index as HTML
+Completed 200 OK in 1ms (Views: 0.2ms | Allocations: 1766)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at 2022-12-02 13:18:55 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/cv" for 127.0.0.1 at 2022-12-02 13:19:37 -0500
+Processing by CvController#index as HTML
+Completed 500 Internal Server Error in 2ms (Allocations: 410)
+
+
+  
+TypeError (no implicit conversion of Symbol into Integer):
+  
+app/models/cv.rb:5:in `[]'
+app/models/cv.rb:5:in `generate_cv'
+app/controllers/cv_controller.rb:3:in `index'
+Started GET "/favicon.ico" for 127.0.0.1 at 2022-12-02 13:19:37 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/job" for 127.0.0.1 at 2022-12-02 13:19:45 -0500
+Processing by JobController#index as HTML
+Completed 200 OK in 1ms (Views: 0.1ms | Allocations: 838)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at 2022-12-02 13:19:45 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/cv" for 127.0.0.1 at 2022-12-02 13:19:46 -0500
+Processing by CvController#index as HTML
+Completed 200 OK in 2ms (Views: 0.2ms | Allocations: 1451)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at 2022-12-02 13:19:46 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/cv" for 127.0.0.1 at 2022-12-02 13:20:02 -0500
+Processing by CvController#index as HTML
+Completed 500 Internal Server Error in 1ms (Allocations: 409)
+
+
+  
+TypeError (no implicit conversion of Symbol into Integer):
+  
+app/models/cv.rb:5:in `[]'
+app/models/cv.rb:5:in `generate_cv'
+app/controllers/cv_controller.rb:3:in `index'
+Started GET "/favicon.ico" for 127.0.0.1 at 2022-12-02 13:20:02 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/job" for 127.0.0.1 at 2022-12-02 13:20:03 -0500
+Processing by JobController#index as HTML
+Completed 200 OK in 1ms (Views: 0.3ms | Allocations: 756)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at 2022-12-02 13:20:03 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/cv" for 127.0.0.1 at 2022-12-02 13:20:04 -0500
+Processing by CvController#index as HTML
+Completed 200 OK in 1ms (Views: 0.5ms | Allocations: 1286)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at 2022-12-02 13:20:04 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/cv" for 127.0.0.1 at 2022-12-02 13:20:29 -0500
+Processing by CvController#index as HTML
+Completed 200 OK in 2ms (Views: 0.7ms | Allocations: 742)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at 2022-12-02 13:20:29 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/cv" for 127.0.0.1 at 2022-12-02 13:20:37 -0500
+Processing by CvController#index as HTML
+Completed 200 OK in 14ms (Views: 0.4ms | Allocations: 2924)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at 2022-12-02 13:20:37 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/cv" for 127.0.0.1 at 2022-12-02 13:20:39 -0500
+Processing by CvController#index as HTML
+Completed 200 OK in 1ms (Views: 0.2ms | Allocations: 1952)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at 2022-12-02 13:20:39 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/cv" for 127.0.0.1 at 2022-12-02 13:20:39 -0500
+Processing by CvController#index as HTML
+Completed 200 OK in 1ms (Views: 0.5ms | Allocations: 2172)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at 2022-12-02 13:20:39 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/cv" for 127.0.0.1 at 2022-12-02 13:20:39 -0500
+Processing by CvController#index as HTML
+Completed 200 OK in 1ms (Views: 0.2ms | Allocations: 1458)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at 2022-12-02 13:20:39 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/cv" for 127.0.0.1 at 2022-12-02 13:20:40 -0500
+Processing by CvController#index as HTML
+Completed 200 OK in 1ms (Views: 0.4ms | Allocations: 701)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at 2022-12-02 13:20:40 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/cv" for 127.0.0.1 at 2022-12-02 13:20:40 -0500
+Processing by CvController#index as HTML
+Completed 200 OK in 2ms (Views: 0.3ms | Allocations: 2006)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at 2022-12-02 13:20:40 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/cv" for 127.0.0.1 at 2022-12-02 13:20:41 -0500
+Processing by CvController#index as HTML
+Completed 200 OK in 3ms (Views: 0.2ms | Allocations: 2088)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at 2022-12-02 13:20:41 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/cv" for 127.0.0.1 at 2022-12-02 13:20:42 -0500
+Processing by CvController#index as HTML
+Completed 200 OK in 1ms (Views: 0.3ms | Allocations: 1504)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at 2022-12-02 13:20:42 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/cv" for 127.0.0.1 at 2022-12-02 13:20:42 -0500
+Processing by CvController#index as HTML
+Completed 200 OK in 6ms (Views: 0.8ms | Allocations: 1936)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at 2022-12-02 13:20:42 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/cv" for 127.0.0.1 at 2022-12-02 13:20:42 -0500
+Processing by CvController#index as HTML
+Completed 200 OK in 1ms (Views: 0.3ms | Allocations: 1118)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at 2022-12-02 13:20:43 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/cv" for 127.0.0.1 at 2022-12-02 13:20:43 -0500
+Processing by CvController#index as HTML
+Completed 200 OK in 1ms (Views: 0.2ms | Allocations: 1830)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at 2022-12-02 13:20:43 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/cv" for 127.0.0.1 at 2022-12-02 13:20:43 -0500
+Processing by CvController#index as HTML
+Completed 200 OK in 4ms (Views: 1.7ms | Allocations: 1359)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at 2022-12-02 13:20:43 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/cv" for 127.0.0.1 at 2022-12-02 13:20:43 -0500
+Processing by CvController#index as HTML
+Completed 200 OK in 4ms (Views: 0.6ms | Allocations: 984)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at 2022-12-02 13:20:43 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/cv" for 127.0.0.1 at 2022-12-02 13:20:44 -0500
+Processing by CvController#index as HTML
+Completed 200 OK in 2ms (Views: 0.3ms | Allocations: 2255)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at 2022-12-02 13:20:44 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/cv" for 127.0.0.1 at 2022-12-02 13:20:44 -0500
+Processing by CvController#index as HTML
+Completed 200 OK in 2ms (Views: 0.5ms | Allocations: 2262)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at 2022-12-02 13:20:44 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/cv" for 127.0.0.1 at 2022-12-02 13:20:45 -0500
+Processing by CvController#index as HTML
+Completed 200 OK in 3ms (Views: 0.9ms | Allocations: 1951)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at 2022-12-02 13:20:45 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/cv" for 127.0.0.1 at 2022-12-02 13:20:45 -0500
+Processing by CvController#index as HTML
+Completed 200 OK in 3ms (Views: 0.5ms | Allocations: 1686)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at 2022-12-02 13:20:45 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/cv" for 127.0.0.1 at 2022-12-02 13:20:45 -0500
+Processing by CvController#index as HTML
+Completed 200 OK in 1ms (Views: 0.2ms | Allocations: 1044)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at 2022-12-02 13:20:45 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/cv" for 127.0.0.1 at 2022-12-02 13:20:45 -0500
+Processing by CvController#index as HTML
+Completed 200 OK in 3ms (Views: 0.6ms | Allocations: 1705)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at 2022-12-02 13:20:45 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/cv" for 127.0.0.1 at 2022-12-02 13:20:45 -0500
+Processing by CvController#index as HTML
+Completed 200 OK in 2ms (Views: 0.4ms | Allocations: 1066)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at 2022-12-02 13:20:45 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/cv" for 127.0.0.1 at 2022-12-02 13:20:46 -0500
+Processing by CvController#index as HTML
+Completed 200 OK in 4ms (Views: 0.6ms | Allocations: 2045)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at 2022-12-02 13:20:46 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/cv" for 127.0.0.1 at 2022-12-02 13:20:46 -0500
+Processing by CvController#index as HTML
+Completed 200 OK in 3ms (Views: 0.5ms | Allocations: 1454)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at 2022-12-02 13:20:46 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/cv" for 127.0.0.1 at 2022-12-02 13:20:46 -0500
+Processing by CvController#index as HTML
+Completed 200 OK in 3ms (Views: 0.6ms | Allocations: 1417)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at 2022-12-02 13:20:46 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/cv" for 127.0.0.1 at 2022-12-02 13:20:46 -0500
+Processing by CvController#index as HTML
+Completed 200 OK in 2ms (Views: 0.5ms | Allocations: 1358)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at 2022-12-02 13:20:46 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/cv" for 127.0.0.1 at 2022-12-02 13:20:46 -0500
+Processing by CvController#index as HTML
+Completed 200 OK in 3ms (Views: 0.7ms | Allocations: 1717)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at 2022-12-02 13:20:46 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/cv" for 127.0.0.1 at 2022-12-02 13:20:46 -0500
+Processing by CvController#index as HTML
+Completed 200 OK in 1ms (Views: 0.4ms | Allocations: 808)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at 2022-12-02 13:20:46 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/cv" for 127.0.0.1 at 2022-12-02 13:20:47 -0500
+Processing by CvController#index as HTML
+Completed 200 OK in 1ms (Views: 0.2ms | Allocations: 1060)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at 2022-12-02 13:20:47 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/cv" for 127.0.0.1 at 2022-12-02 13:20:48 -0500
+Processing by CvController#index as HTML
+Completed 200 OK in 1ms (Views: 0.2ms | Allocations: 1410)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at 2022-12-02 13:20:48 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/cv" for 127.0.0.1 at 2022-12-02 13:20:49 -0500
+Processing by CvController#index as HTML
+Completed 200 OK in 1ms (Views: 0.2ms | Allocations: 1040)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at 2022-12-02 13:20:49 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/cv" for 127.0.0.1 at 2022-12-02 13:20:49 -0500
+Processing by CvController#index as HTML
+Completed 200 OK in 1ms (Views: 0.2ms | Allocations: 1510)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at 2022-12-02 13:20:49 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/cv" for 127.0.0.1 at 2022-12-02 13:20:50 -0500
+Processing by CvController#index as HTML
+Completed 200 OK in 1ms (Views: 0.3ms | Allocations: 1869)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at 2022-12-02 13:20:50 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/cv" for 127.0.0.1 at 2022-12-02 13:20:50 -0500
+Processing by CvController#index as HTML
+Completed 200 OK in 1ms (Views: 0.2ms | Allocations: 1118)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at 2022-12-02 13:20:50 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/cv" for 127.0.0.1 at 2022-12-02 13:20:51 -0500
+Processing by CvController#index as HTML
+Completed 200 OK in 1ms (Views: 0.4ms | Allocations: 699)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at 2022-12-02 13:20:51 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/cv" for 127.0.0.1 at 2022-12-02 13:22:57 -0500
+Processing by CvController#index as HTML
+Completed 200 OK in 1ms (Views: 0.2ms | Allocations: 1732)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at 2022-12-02 13:22:57 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/cv" for 127.0.0.1 at 2022-12-02 13:22:59 -0500
+Processing by CvController#index as HTML
+Completed 200 OK in 1ms (Views: 0.2ms | Allocations: 1476)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at 2022-12-02 13:22:59 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/cv" for 127.0.0.1 at 2022-12-02 13:22:59 -0500
+Processing by CvController#index as HTML
+Completed 200 OK in 1ms (Views: 0.2ms | Allocations: 1693)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at 2022-12-02 13:22:59 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/cv" for 127.0.0.1 at 2022-12-02 13:23:00 -0500
+Processing by CvController#index as HTML
+Completed 200 OK in 1ms (Views: 0.2ms | Allocations: 1153)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at 2022-12-02 13:23:00 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/cv" for 127.0.0.1 at 2022-12-02 13:23:08 -0500
+Processing by CvController#index as HTML
+Completed 500 Internal Server Error in 2ms (Allocations: 409)
+
+
+  
+TypeError (no implicit conversion of Symbol into Integer):
+  
+app/models/cv.rb:5:in `[]'
+app/models/cv.rb:5:in `generate_cv'
+app/controllers/cv_controller.rb:3:in `index'
+Started GET "/favicon.ico" for 127.0.0.1 at 2022-12-02 13:23:08 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/job" for 127.0.0.1 at 2022-12-02 13:23:09 -0500
+Processing by JobController#index as HTML
+Completed 200 OK in 1ms (Views: 0.2ms | Allocations: 755)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at 2022-12-02 13:23:09 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/cv" for 127.0.0.1 at 2022-12-02 13:23:10 -0500
+Processing by CvController#index as HTML
+Completed 200 OK in 2ms (Views: 0.4ms | Allocations: 2141)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at 2022-12-02 13:23:10 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/cv" for 127.0.0.1 at 2022-12-02 13:23:11 -0500
+Processing by CvController#index as HTML
+Completed 200 OK in 1ms (Views: 0.2ms | Allocations: 1907)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at 2022-12-02 13:23:11 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/cv" for 127.0.0.1 at 2022-12-02 13:23:12 -0500
+Processing by CvController#index as HTML
+Completed 200 OK in 1ms (Views: 0.2ms | Allocations: 1365)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at 2022-12-02 13:23:12 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/cv" for 127.0.0.1 at 2022-12-02 13:23:22 -0500
+Processing by CvController#index as HTML
+Completed 200 OK in 1ms (Views: 0.3ms | Allocations: 1197)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at 2022-12-02 13:23:22 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/cv" for 127.0.0.1 at 2022-12-02 13:23:23 -0500
+Processing by CvController#index as HTML
+Completed 200 OK in 1ms (Views: 0.2ms | Allocations: 2210)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at 2022-12-02 13:23:23 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/cv" for 127.0.0.1 at 2022-12-02 13:23:29 -0500
+Processing by CvController#index as HTML
+Completed 500 Internal Server Error in 1ms (Allocations: 409)
+
+
+  
+TypeError (no implicit conversion of Symbol into Integer):
+  
+app/models/cv.rb:5:in `[]'
+app/models/cv.rb:5:in `generate_cv'
+app/controllers/cv_controller.rb:3:in `index'
+Started GET "/favicon.ico" for 127.0.0.1 at 2022-12-02 13:23:29 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/job" for 127.0.0.1 at 2022-12-02 13:23:30 -0500
+Processing by JobController#index as HTML
+Completed 200 OK in 1ms (Views: 0.2ms | Allocations: 755)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at 2022-12-02 13:23:30 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/cv" for 127.0.0.1 at 2022-12-02 13:23:31 -0500
+Processing by CvController#index as HTML
+Completed 200 OK in 2ms (Views: 0.4ms | Allocations: 1959)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at 2022-12-02 13:23:31 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/cv" for 127.0.0.1 at 2022-12-02 13:23:32 -0500
+Processing by CvController#index as HTML
+Completed 200 OK in 2ms (Views: 0.3ms | Allocations: 2318)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at 2022-12-02 13:23:32 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/cv" for 127.0.0.1 at 2022-12-02 13:23:33 -0500
+Processing by CvController#index as HTML
+Completed 200 OK in 3ms (Views: 0.6ms | Allocations: 709)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at 2022-12-02 13:23:33 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/cv" for 127.0.0.1 at 2022-12-02 13:23:33 -0500
+Processing by CvController#index as HTML
+Completed 200 OK in 3ms (Views: 0.5ms | Allocations: 1357)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at 2022-12-02 13:23:34 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/cv" for 127.0.0.1 at 2022-12-02 13:23:35 -0500
+Processing by CvController#index as HTML
+Completed 200 OK in 1ms (Views: 0.2ms | Allocations: 1463)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at 2022-12-02 13:23:35 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/cv" for 127.0.0.1 at 2022-12-02 13:23:36 -0500
+Processing by CvController#index as HTML
+Completed 200 OK in 1ms (Views: 0.2ms | Allocations: 701)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at 2022-12-02 13:23:36 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/cv" for 127.0.0.1 at 2022-12-02 13:23:36 -0500
+Processing by CvController#index as HTML
+Completed 200 OK in 1ms (Views: 0.1ms | Allocations: 704)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at 2022-12-02 13:23:37 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/cv" for 127.0.0.1 at 2022-12-02 13:23:37 -0500
+Processing by CvController#index as HTML
+Completed 200 OK in 1ms (Views: 0.4ms | Allocations: 2359)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at 2022-12-02 13:23:37 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/cv" for 127.0.0.1 at 2022-12-02 13:23:38 -0500
+Processing by CvController#index as HTML
+Completed 200 OK in 0ms (Views: 0.1ms | Allocations: 704)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at 2022-12-02 13:23:38 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/cv" for 127.0.0.1 at 2022-12-02 13:23:39 -0500
+Processing by CvController#index as HTML
+Completed 200 OK in 1ms (Views: 0.2ms | Allocations: 1694)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at 2022-12-02 13:23:39 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/cv" for 127.0.0.1 at 2022-12-02 13:23:40 -0500
+Processing by CvController#index as HTML
+Completed 200 OK in 1ms (Views: 0.3ms | Allocations: 1487)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at 2022-12-02 13:23:40 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/cv" for 127.0.0.1 at 2022-12-02 13:23:40 -0500
+Processing by CvController#index as HTML
+Completed 200 OK in 1ms (Views: 0.2ms | Allocations: 1143)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at 2022-12-02 13:23:40 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/cv" for 127.0.0.1 at 2022-12-02 13:23:41 -0500
+Processing by CvController#index as HTML
+Completed 200 OK in 1ms (Views: 0.1ms | Allocations: 1074)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at 2022-12-02 13:23:41 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/cv" for 127.0.0.1 at 2022-12-02 13:23:42 -0500
+Processing by CvController#index as HTML
+Completed 200 OK in 1ms (Views: 0.4ms | Allocations: 1564)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at 2022-12-02 13:23:42 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/cv" for 127.0.0.1 at 2022-12-02 13:24:02 -0500
+Processing by CvController#index as HTML
+Completed 200 OK in 3ms (Views: 0.4ms | Allocations: 1785)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at 2022-12-02 13:24:02 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/cv" for 127.0.0.1 at 2022-12-02 13:24:03 -0500
+Processing by CvController#index as HTML
+Completed 200 OK in 1ms (Views: 0.4ms | Allocations: 1361)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at 2022-12-02 13:24:03 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/cv" for 127.0.0.1 at 2022-12-02 13:24:04 -0500
+Processing by CvController#index as HTML
+Completed 200 OK in 1ms (Views: 0.2ms | Allocations: 1926)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at 2022-12-02 13:24:04 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/cv" for 127.0.0.1 at 2022-12-02 13:24:04 -0500
+Processing by CvController#index as HTML
+Completed 200 OK in 1ms (Views: 0.2ms | Allocations: 1066)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at 2022-12-02 13:24:04 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/cv" for 127.0.0.1 at 2022-12-02 13:24:05 -0500
+Processing by CvController#index as HTML
+Completed 200 OK in 1ms (Views: 0.2ms | Allocations: 711)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at 2022-12-02 13:24:05 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/cv" for 127.0.0.1 at 2022-12-02 13:24:06 -0500
+Processing by CvController#index as HTML
+Completed 200 OK in 1ms (Views: 0.2ms | Allocations: 1373)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at 2022-12-02 13:24:06 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/cv" for 127.0.0.1 at 2022-12-02 13:24:07 -0500
+Processing by CvController#index as HTML
+Completed 200 OK in 1ms (Views: 0.2ms | Allocations: 1141)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at 2022-12-02 13:24:07 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/cv" for 127.0.0.1 at 2022-12-02 13:24:08 -0500
+Processing by CvController#index as HTML
+Completed 200 OK in 1ms (Views: 0.2ms | Allocations: 1881)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at 2022-12-02 13:24:08 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/cv" for 127.0.0.1 at 2022-12-02 13:24:08 -0500
+Processing by CvController#index as HTML
+Completed 200 OK in 1ms (Views: 0.2ms | Allocations: 1416)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at 2022-12-02 13:24:08 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/cv" for 127.0.0.1 at 2022-12-02 13:24:09 -0500
+Processing by CvController#index as HTML
+Completed 200 OK in 1ms (Views: 0.2ms | Allocations: 1980)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at 2022-12-02 13:24:09 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/cv" for 127.0.0.1 at 2022-12-02 13:24:09 -0500
+Processing by CvController#index as HTML
+Completed 200 OK in 2ms (Views: 0.3ms | Allocations: 1819)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at 2022-12-02 13:24:09 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/cv" for 127.0.0.1 at 2022-12-02 13:24:10 -0500
+Processing by CvController#index as HTML
+Completed 200 OK in 1ms (Views: 0.2ms | Allocations: 982)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at 2022-12-02 13:24:10 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/cv" for 127.0.0.1 at 2022-12-02 13:24:11 -0500
+Processing by CvController#index as HTML
+Completed 200 OK in 1ms (Views: 0.2ms | Allocations: 1493)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at 2022-12-02 13:24:11 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/cv" for 127.0.0.1 at 2022-12-02 13:24:12 -0500
+Processing by CvController#index as HTML
+Completed 200 OK in 1ms (Views: 0.4ms | Allocations: 1402)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at 2022-12-02 13:24:12 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/cv" for 127.0.0.1 at 2022-12-02 13:24:13 -0500
+Processing by CvController#index as HTML
+Completed 200 OK in 1ms (Views: 0.1ms | Allocations: 974)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at 2022-12-02 13:24:13 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/cv" for 127.0.0.1 at 2022-12-02 13:24:13 -0500
+Processing by CvController#index as HTML
+Completed 200 OK in 1ms (Views: 0.2ms | Allocations: 1463)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at 2022-12-02 13:24:13 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/cv" for 127.0.0.1 at 2022-12-02 13:24:14 -0500
+Processing by CvController#index as HTML
+Completed 200 OK in 1ms (Views: 0.1ms | Allocations: 786)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at 2022-12-02 13:24:14 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/cv" for 127.0.0.1 at 2022-12-02 13:24:15 -0500
+Processing by CvController#index as HTML
+Completed 200 OK in 1ms (Views: 0.2ms | Allocations: 2243)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at 2022-12-02 13:24:15 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/cv" for 127.0.0.1 at 2022-12-02 13:24:15 -0500
+Processing by CvController#index as HTML
+Completed 200 OK in 2ms (Views: 0.8ms | Allocations: 1363)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at 2022-12-02 13:24:15 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/cv" for 127.0.0.1 at 2022-12-02 13:24:15 -0500
+Processing by CvController#index as HTML
+Completed 200 OK in 1ms (Views: 0.2ms | Allocations: 1394)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at 2022-12-02 13:24:15 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  

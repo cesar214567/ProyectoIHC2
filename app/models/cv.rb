@@ -1,9 +1,12 @@
 class Cv
     def self.generate_cv  
         last_job_position = JobPositionRequirement.last
+        value = 100
+        value *= last_job_position[:required_title] ? 1.3 : 1.0
         data = {}
         data[:fullname] = Faker::Name.name
         data[:age] = (19..50).to_a.sample
+        value *= 0.8 + (50 - data[:age])/30.0
         data[:hasTitle] = [true,false].sample && data[:age] > 22
         data[:titleInstitute] =  data[:hasTitle]? Faker::University.name : " "
         data[:titleName] = data[:hasTitle]?  "Licenciated in #{Title.one}" : " "
@@ -11,7 +14,9 @@ class Cv
         pastJobs = []
         months = 0
         usefull_months = 0
-        (0..3).to_a.sample.times do 
+        jobs_done = rand(0..3)
+        value *= 1+jobs_done
+        jobs_done.times do 
             job = {}
             job[:companyName] = Faker::Company.name
             job[:months] = (1..18).to_a.sample
@@ -30,12 +35,14 @@ class Cv
             data[:experienceYears] = (months/12.0).round(2)
         else
             data[:experienceYears] = ((1..30).to_a.sample/12.0).round(2)
+            value *= 2
         end
         if (usefull_months/12.0).round(2) >= last_job_position[:required_experience] && data[:hasTitle] == last_job_position[:required_title]
             data[:is_valid] = true
         else
             data[:is_valid] = false
         end
+        data[:points] = value.round(2)
         return data
     end
 
